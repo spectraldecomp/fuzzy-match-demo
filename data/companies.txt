@@ -1,0 +1,11 @@
+10
+Acme Corporation:[Acme Corporation, Acme, Acme Corp]
+Akram Corporation:[Akram Corporation, Akram, Akram Corp]
+Macaroni Company:[Macaroni Company, Macaroni, Macs, Macaroni Corp]
+Acceleration Corp:[Acceleration Corp, Acceleration, Accel]
+Axiom Enterprises:[Axiom Enterprises, Axioms]
+Modularity Enterprises:[Modularity Enterprises, Modularity, ModEnt]
+Apex Inc.:[Apex Inc., AI Inc, AI]
+Apicsorn Inc.:[Apicsorn Inc., APSI, Apsicorn]
+Bold Corporation:[Bold Corporation, BoldCorp]
+Boltbenn Corporation:[Boltbenn Corporation, Boltbenn]
